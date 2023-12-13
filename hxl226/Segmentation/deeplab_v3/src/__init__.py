@@ -1,0 +1,1 @@
+from .deeplabv3_model import deeplabv3_resnet50, deeplabv3_mobilenets, deeplabv3_mobilenetv3_large, deeplabv3_mobilenetv2
